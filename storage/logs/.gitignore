@@ -1,2 +1,6 @@
 *
 !.gitignore
+!nginx
+!nginx/.gitkeep
+!php
+!php/.gitkeep
